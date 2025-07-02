@@ -1,6 +1,6 @@
 # CLI-Based Calculator
 
-### mtalha_cli_calculator
+## mtalha_cli_calculator
 
 A simple and interactive command-line calculator built with Node.js and TypeScript.
 
